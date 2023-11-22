@@ -1,0 +1,12 @@
+C:\Users\SD155964\source\repos\SortedList\SortedList\bin\Debug\net6.0\SortedList.deps.json
+C:\Users\SD155964\source\repos\SortedList\SortedList\bin\Debug\net6.0\SortedList.dll
+C:\Users\SD155964\source\repos\SortedList\SortedList\bin\Debug\net6.0\ref\SortedList.dll
+C:\Users\SD155964\source\repos\SortedList\SortedList\bin\Debug\net6.0\SortedList.pdb
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.csproj.AssemblyReference.cache
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfo.cs
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.dll
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\ref\SortedList.dll
+C:\Users\SD155964\source\repos\SortedList\SortedList\obj\Debug\net6.0\SortedList.pdb
